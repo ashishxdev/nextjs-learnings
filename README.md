@@ -1,0 +1,14 @@
+- How to create Server Component
+- How to create Client Side Server Component
+- How to create a Nested Route
+- How to create Dynamic Routes
+    - [] or [slug] to create a dynamic Route
+- Concept of Layout
+    - Route Layout
+- CatchAll Route & Optional CatchAll Route
+    - CatchAll Route [...slug] - If there are no Slug 404 Error
+    - Optional CatchAll Route [[...slug]] - If there are no Slug No Error
+- Client Side Hooks
+    - useRouter
+    - usePathname
+    - useSearchParams
