@@ -12,3 +12,17 @@
     - useRouter
     - usePathname
     - useSearchParams
+- Creating a Not Found Page (file name -> not-found)
+- Creating a Loading UI (loading.tsx)
+- How to handle Error or Error Handling
+- Route Groups (Marketing isn't a Route)
+- How to work with metadata and how to create dynamic metatag
+    - Static Way
+    - Dynamic Way
+- Data Fetching
+- use Hook
+- Caching
+- Client Side Caching 
+    - useEffect
+    - reactQuery
+    - SWR (Revalidate Feature)
