@@ -24,5 +24,9 @@
 - Caching
 - Client Side Caching 
     - useEffect
-    - reactQuery
-    - SWR (Revalidate Feature)
+    - ReactQuery or TanStack Query 
+        - npm i @tanstack/react-query
+        - Dev Tool - npm i @tanstack/react-query-devtools
+            - StaleTime - an option that defines the duration (in milliseconds) for which a query's data is considered "fresh"
+            - gcTime - defines the duration that cached data remains in memory after it becomes inactive
+    - SWR (Features)
